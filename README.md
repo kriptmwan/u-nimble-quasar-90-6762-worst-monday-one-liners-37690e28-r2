@@ -21,8 +21,8 @@ node main.ts   # writes /output/entry.txt
 
 ## Entry
 
-> Monday: I fixed the bug at 9, broke prod at 10, and by lunch my own error
-> log had filed a complaint about me.
+> Monday: I fixed the bug at 9, broke prod at 10, and by lunch my error
+> log had reported me to HR for misconduct.
 
 ## License
 
